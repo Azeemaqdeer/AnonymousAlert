@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mob</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uid">uid</string>
+    <string-array name="person">
+        <item>Select your Module</item>
+        <item>ADMIN</item>
+        <item>ANONYMOUS</item>
+
+    </string-array>
+</resources>
